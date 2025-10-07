@@ -1,4 +1,7 @@
 {
     "workbench.colorTheme": "Default Dark Modern",
-    "python.analysis.autoImportCompletions": true
+    "python.analysis.autoImportCompletions": true,
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+    "python-envs.pythonProjects": [],
+    "python.analysis.typeCheckingMode": "standard"
 }

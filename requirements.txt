@@ -8,4 +8,4 @@ pillow==11.3.0
 PyJWT==2.10.1
 sqlparse==0.5.3
 tzdata==2025.2
-corsheaders==3.18.0
+django-cors-headers==4.9.0
